@@ -46,7 +46,7 @@ class IntroductionSec extends Component {
 
           <h4 style={{ color: 'white', textAlign: "left", marginTop: '3.5vw' }}>
             {"Expected graduation in December 2020 | "}
-            <a href="https://drive.google.com/open?id=18Yuo8NgnHePld0zkVvLGre6xwUzC0rRK">View my resume</a>
+            <a href="https://drive.google.com/open?id=1AFwiP6OoMkHQhVq0YlF1UmYSsDLVsCPv">View my resume</a>
           </h4>
         </div>
       </div>
