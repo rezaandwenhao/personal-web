@@ -8,7 +8,7 @@ class Footer extends Component {
     render() {
         return (
             <div className="footer" style={{ marginBottom: 50 }}>
-                <a href="wenhao.geng@mail.mcgill.ca" style={{ color: 'white' }}>
+                <a href="mailto: wenhao.geng@mail.mcgill.ca" style={{ color: 'white' }}>
                     <FontAwesomeIcon icon={faEnvelope} /> &nbsp;Email
                 </a>
                 &nbsp;

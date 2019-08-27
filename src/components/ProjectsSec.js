@@ -12,7 +12,9 @@ class ProjectsSec extends Component {
       <div className="projects">
         <div id="project">
           <div id="aProject">
-            <img className="photo" src={GarbageLookup} alt="" href="https://hidden-plateau-61052.herokuapp.com/" />
+            < a href="https://hidden-plateau-61052.herokuapp.com/">
+              <img className="photo" src={GarbageLookup} alt="" />
+            </a>
             <p style={{ color: 'white', paddingTop: 10 }}>
               Project  |  2019
             </p>
@@ -34,7 +36,9 @@ class ProjectsSec extends Component {
         </div>
         <div id="project">
           <div id="aProject">
-            <img className="photo" src={MathUp} alt="" href="https://github.com/rezaandwenhao/MATH-UP" />
+            <a href="https://github.com/rezaandwenhao/MATH-UP">
+              <img className="photo" src={MathUp} alt="" href="https://github.com/rezaandwenhao/MATH-UP" />
+            </a>
             <p style={{ color: 'white', paddingTop: 10 }}>
               Project  |  2018
             </p>
@@ -43,7 +47,9 @@ class ProjectsSec extends Component {
         </div>
         <div id="project">
           <div id="aProject">
-            <img className="photo" src={Robot} alt="" href="https://drive.google.com/open?id=1nxU33NAUv72MRqcaAAUUgR7n6xqlB8Og" />
+            <a href="https://drive.google.com/open?id=1nxU33NAUv72MRqcaAAUUgR7n6xqlB8Og">
+              <img className="photo" src={Robot} alt="" href="https://drive.google.com/open?id=1nxU33NAUv72MRqcaAAUUgR7n6xqlB8Og" />
+            </a>
             <p style={{ color: 'white', paddingTop: 10 }}>
               Project  |  2018
             </p>
@@ -60,12 +66,14 @@ class ProjectsSec extends Component {
             <p style={{ color: 'white', paddingTop: 10 }}>
               Ericsson Internship  |  2018
             </p>
-          <p style={{ color: 'white' }}>Coming Soon!</p>
+            <p style={{ color: 'white' }}>Coming Soon!</p>
           </div>
         </div>
         <div id="project">
           <div id="aProject">
-            <img className="photo" src={TileO} alt="" />
+            <a href="https://github.com/rezaandwenhao/TileO">
+              <img className="photo" src={TileO} alt="" />
+            </a>
             <p style={{ color: 'white', paddingTop: 10 }}>
               Project  |  2017
             </p>
