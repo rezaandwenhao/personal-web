@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faGithub } from '@fortawesome/free-brands-svg-icons';
+import { faGithub, faLinkedin } from '@fortawesome/free-brands-svg-icons';
 import { faEnvelope } from '@fortawesome/free-solid-svg-icons';
 import ScrollUpButton from "react-scroll-up-button";
 
@@ -16,6 +16,12 @@ class Footer extends Component {
                 &nbsp;
                 <a href="https://github.com/rezaandwenhao" style={{ color: 'white' }}>
                     <FontAwesomeIcon icon={faGithub} /> &nbsp;Github
+                </a>
+                &nbsp;
+                &nbsp;
+                &nbsp;
+                <a href="https://www.linkedin.com/in/wenhao-geng-470151114/" style={{ color: 'white' }}>
+                    <FontAwesomeIcon icon={faLinkedin} /> &nbsp;Linkedin
                 </a>
                 <ScrollUpButton />
             </div>
