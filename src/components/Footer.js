@@ -14,13 +14,13 @@ class Footer extends Component {
                 &nbsp;
                 &nbsp;
                 &nbsp;
-                <a href="https://github.com/rezaandwenhao" style={{ color: 'white' }}>
+                <a href="https://github.com/rezaandwenhao" style={{ color: 'white' }} target="_blank" rel="noopener noreferrer">
                     <FontAwesomeIcon icon={faGithub} /> &nbsp;Github
                 </a>
                 &nbsp;
                 &nbsp;
                 &nbsp;
-                <a href="https://www.linkedin.com/in/wenhao-geng-470151114/" style={{ color: 'white' }}>
+                <a href="https://www.linkedin.com/in/wenhao-geng-470151114/" style={{ color: 'white' }} target="_blank" rel="noopener noreferrer">
                     <FontAwesomeIcon icon={faLinkedin} /> &nbsp;Linkedin
                 </a>
                 <ScrollUpButton />
