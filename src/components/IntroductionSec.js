@@ -10,7 +10,7 @@ class IntroductionSec extends Component {
         <div className="title">
 
           <h1 style={{ color: 'wheat', textAlign: "left", marginTop: '2vw' }}>
-            Owen Geng
+            Owen Wenhao Geng
             <span role="img" aria-label="climbing">  🧗🏽‍♂️ </span>
           </h1>
 
