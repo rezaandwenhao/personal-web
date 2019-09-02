@@ -19,7 +19,7 @@ class IntroductionSec extends Component {
           </h3>
 
           <h4 style={{ color: 'white', textAlign: "left", marginTop: '3.5vw' }}>
-            I have the most experience in Java system design, front-end development, and mobile development. My recent interest is focusing on the React web app.
+            Experienced with Java, frontend and mobile development. Recently focusing on building web apps with React.
           </h4>
 
           <h4 style={{ color: 'white', textAlign: "left" }}>
@@ -46,7 +46,7 @@ class IntroductionSec extends Component {
 
           <h4 style={{ color: 'white', textAlign: "left", marginTop: '3.5vw' }}>
             {"Expected graduation in December 2020 | "}
-            <a href="https://drive.google.com/open?id=1AFwiP6OoMkHQhVq0YlF1UmYSsDLVsCPv" target="_blank" rel="noopener noreferrer">View my resume</a>
+            <a href="https://drive.google.com/open?id=1dG0Q7nu9Z0MBPTEQ05g2mgEMhvRKMzM7" target="_blank" rel="noopener noreferrer">View my resume</a>
           </h4>
         </div>
       </div>

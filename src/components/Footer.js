@@ -24,6 +24,9 @@ class Footer extends Component {
                     <FontAwesomeIcon icon={faLinkedin} /> &nbsp;Linkedin
                 </a>
                 <ScrollUpButton />
+                <p style={{ color: 'grey', textAlign: "center", marginTop: '18px' }}>
+                    Copyright © 2019 Wenhao Geng. All Rights Reserved. <br/> Built with React.js
+                </p>
             </div>
         )
     }
