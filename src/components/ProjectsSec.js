@@ -5,6 +5,7 @@ import MathUp from '../resources/MATH-UP.png';
 import Robot from '../resources/Robot.png';
 import Ericsson from '../resources/Ericsson.jpg';
 import TileO from '../resources/TileO.png';
+import Footer from './Footer';
 
 class ProjectsSec extends Component {
   render() {
@@ -80,6 +81,7 @@ class ProjectsSec extends Component {
             <a href="https://github.com/rezaandwenhao/TileO" target="_blank" rel="noopener noreferrer">Github</a>
           </div>
         </div>
+        <Footer />
       </div>
     )
   }
