@@ -11,11 +11,10 @@ class IntroductionSec extends Component {
 
           <h1 style={{ color: 'wheat', textAlign: "left", marginTop: '2vw' }}>
             Owen (Wenhao) Geng
-            <span role="img" aria-label="climbing">  🧗🏽‍♂️ </span>
           </h1>
 
           <h3 style={{ color: 'white', textAlign: "left" }}>
-            Front-end/Mobile/Java Developer  |  Computer Engineering Student  |  Table Tennis Player
+            Software Developer  |  Computer Engineering Student  |  Table Tennis Player
           </h3>
 
           <h4 style={{ color: 'white', textAlign: "left", marginTop: '3.5vw' }}>
