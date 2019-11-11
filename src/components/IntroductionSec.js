@@ -18,7 +18,7 @@ class IntroductionSec extends Component {
           </h3>
 
           <h4 style={{ color: 'white', textAlign: "left", marginTop: '3.5vw' }}>
-            Experienced with Java, frontend and mobile development. Recently focusing on building web apps with React.
+            Experienced with Java, frontend and mobile development. Open for software engineer internship opportunities.
           </h4>
 
           <h4 style={{ color: 'white', textAlign: "left" }}>
@@ -32,14 +32,17 @@ class IntroductionSec extends Component {
             <Badge pill variant="success" style={{ marginLeft: '1vw' }}>
               C#
             </Badge>
-            <Badge pill variant="danger" style={{ marginLeft: '1vw' }}>
-              XAML
-            </Badge>
             <Badge pill variant="info" style={{ marginLeft: '1vw' }}>
-              React
+              React.js
             </Badge>
             <Badge pill variant="light" style={{ marginLeft: '1vw' }}>
               Redux
+            </Badge>
+            <Badge pill variant="danger" style={{ marginLeft: '1vw' }}>
+              Vue.js
+            </Badge>
+            <Badge pill variant="warning" style={{ marginLeft: '1vw' }}>
+              Spring Framework
             </Badge>
           </h4>
 
