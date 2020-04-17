@@ -44,6 +44,7 @@ class ProjectsSec extends Component {
             <p style={{ color: "white", paddingTop: 10 }}>
               Nventive Internship | 2019
             </p>
+            <p style={{ color: "white" }}>Montreal, Canada</p>
           </div>
         </div>
         <div id="project">
@@ -98,6 +99,7 @@ class ProjectsSec extends Component {
             <p style={{ color: "white", paddingTop: 10 }}>
               Ericsson Internship | 2018
             </p>
+            <p style={{ color: "white" }}>Ottawa, Canada</p>
           </div>
         </div>
         <div id="project">
