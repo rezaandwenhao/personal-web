@@ -19,7 +19,8 @@ class IntroductionSec extends Component {
 
           <h4 style={{ color: "white", textAlign: "left", marginTop: "3.5vw" }}>
             Experienced with Java, full-stack web development and mobile
-            development. Open for software engineer internship opportunities.
+            development. Open for software engineer internship and part-time
+            opportunities.
           </h4>
 
           <h4 style={{ color: "white", textAlign: "left" }}>
