@@ -19,8 +19,7 @@ class IntroductionSec extends Component {
 
           <h4 style={{ color: "white", textAlign: "left", marginTop: "3.5vw" }}>
             Experienced with Java, full-stack web development and mobile
-            development. Open for software engineer internship and part-time
-            opportunities.
+            development. Actively looking for full-time opportunities.
           </h4>
 
           <h4 style={{ color: "white", textAlign: "left" }}>
@@ -47,6 +46,12 @@ class IntroductionSec extends Component {
               Spring Framework
             </Badge>
             <Badge pill variant="primary" style={{ marginLeft: "1vw" }}>
+              Docker
+            </Badge>
+            <Badge pill variant="info" style={{ marginLeft: "1vw" }}>
+              Python Flask
+            </Badge>
+            <Badge pill variant="danger" style={{ marginLeft: "1vw" }}>
               MongoDB
             </Badge>
           </h4>

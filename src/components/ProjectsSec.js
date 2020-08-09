@@ -5,12 +5,32 @@ import MathUp from "../resources/MATH-UP.png";
 import Robot from "../resources/Robot.png";
 import Ericsson from "../resources/Ericsson.jpg";
 import TileO from "../resources/TileO.png";
+import Apple from "../resources/Apple-logo.png";
+import Nimbus from "../resources/Nimbus.png";
 import Footer from "./Footer";
 
 class ProjectsSec extends Component {
   render() {
     return (
       <div className="projects">
+        <div id="project">
+          <div id="aProject">
+            <img className="photo" src={Apple} alt="" />
+            <p style={{ color: "white", paddingTop: 10 }}>
+              Apple SWE Internship | 2020
+            </p>
+            <p style={{ color: "white" }}>Cupertino, California</p>
+          </div>
+        </div>
+        <div id="project">
+          <div id="aProject">
+            <img className="photo" src={Nimbus} alt="" />
+            <p style={{ color: "white", paddingTop: 10 }}>
+              Nimbus Learning SWE Contractor | 2020
+            </p>
+            <p style={{ color: "white" }}>Montreal, Canada</p>
+          </div>
+        </div>
         <div id="project">
           <div id="aProject">
             <a
@@ -20,7 +40,7 @@ class ProjectsSec extends Component {
             >
               <img className="photo" src={GarbageLookup} alt="" />
             </a>
-            <p style={{ color: "white", paddingTop: 10 }}>Project | 2019</p>
+            <p style={{ color: "white", paddingTop: 10 }}>Waste Lookup | 2019</p>
             <a
               href="https://hidden-plateau-61052.herokuapp.com/"
               target="_blank"
@@ -42,7 +62,7 @@ class ProjectsSec extends Component {
           <div id="aProject">
             <img className="photo" src={Nventive} alt="" />
             <p style={{ color: "white", paddingTop: 10 }}>
-              Nventive Internship | 2019
+              Nventive SWE Internship | 2019
             </p>
             <p style={{ color: "white" }}>Montreal, Canada</p>
           </div>
@@ -56,7 +76,7 @@ class ProjectsSec extends Component {
             >
               <img className="photo" src={MathUp} alt="" />
             </a>
-            <p style={{ color: "white", paddingTop: 10 }}>Project | 2018</p>
+            <p style={{ color: "white", paddingTop: 10 }}>MathUp | 2018</p>
             <a
               href="https://github.com/rezaandwenhao/MATH-UP"
               target="_blank"
@@ -75,7 +95,7 @@ class ProjectsSec extends Component {
             >
               <img className="photo" src={Robot} alt="" />
             </a>
-            <p style={{ color: "white", paddingTop: 10 }}>Project | 2018</p>
+            <p style={{ color: "white", paddingTop: 10 }}>LEGO EV3 Robot Competition | 2018</p>
             <a
               href="https://drive.google.com/open?id=1nxU33NAUv72MRqcaAAUUgR7n6xqlB8Og"
               target="_blank"
@@ -97,7 +117,7 @@ class ProjectsSec extends Component {
           <div id="aProject">
             <img className="photo" src={Ericsson} alt="" />
             <p style={{ color: "white", paddingTop: 10 }}>
-              Ericsson Internship | 2018
+              Ericsson SWE Internship | 2018
             </p>
             <p style={{ color: "white" }}>Ottawa, Canada</p>
           </div>
@@ -111,7 +131,7 @@ class ProjectsSec extends Component {
             >
               <img className="photo" src={TileO} alt="" />
             </a>
-            <p style={{ color: "white", paddingTop: 10 }}>Project | 2017</p>
+            <p style={{ color: "white", paddingTop: 10 }}>TileO | 2017</p>
             <a
               href="https://github.com/rezaandwenhao/TileO"
               target="_blank"
