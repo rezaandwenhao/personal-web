@@ -15,7 +15,13 @@ class ProjectsSec extends Component {
       <div className="projects">
         <div id="project">
           <div id="aProject">
-            <img className="photo" src={Apple} alt="" />
+            <a
+              href="https://www.apple.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img className="photo" src={Apple} alt="" />
+            </a>
             <p style={{ color: "white", paddingTop: 10 }}>
               Apple SWE Internship | 2020
             </p>
@@ -24,7 +30,13 @@ class ProjectsSec extends Component {
         </div>
         <div id="project">
           <div id="aProject">
-            <img className="photo" src={Nimbus} alt="" />
+            <a
+              href="https://nimbuslearning.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img className="photo" src={Nimbus} alt="" />
+            </a>
             <p style={{ color: "white", paddingTop: 10 }}>
               Nimbus Learning SWE Contractor | 2020
             </p>
@@ -60,7 +72,13 @@ class ProjectsSec extends Component {
         </div>
         <div id="project">
           <div id="aProject">
-            <img className="photo" src={Nventive} alt="" />
+            <a
+              href="https://nventive.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img className="photo" src={Nventive} alt="" />
+            </a>
             <p style={{ color: "white", paddingTop: 10 }}>
               Nventive SWE Internship | 2019
             </p>
@@ -115,7 +133,13 @@ class ProjectsSec extends Component {
         </div>
         <div id="project">
           <div id="aProject">
-            <img className="photo" src={Ericsson} alt="" />
+            <a
+              href="https://www.ericsson.ca/en"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <img className="photo" src={Ericsson} alt="" />
+            </a>
             <p style={{ color: "white", paddingTop: 10 }}>
               Ericsson SWE Internship | 2018
             </p>
